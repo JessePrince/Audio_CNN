@@ -1,2 +1,4 @@
-# Audio_CNN
- The CNN train code
+# 导言
+这是用来训练卷积神经网络的代码，使用tensorflow的平台。
+# 问题
+数据量少过拟合，以及loss少有下降
